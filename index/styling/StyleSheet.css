@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    background-image: url(weather.jpg); 
+    color: rgb(0, 0, 0);
+    font-family: std,'Times New Roman', Times, serif;
+    font-size: large;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+ .container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 440px;
+ }
+ h1{
+    font-weight: 700;
+    margin-top: 150px;
+
+ }
+ input{
+    width: 350px;
+    padding: 5px;
+    
+ }
+ table th{
+    padding-top: 34px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #030303;
+    color: rgb(0, 0, 0);
+ }
+ 
